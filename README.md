@@ -1,7 +1,7 @@
 ### Ajay Kumar
 > Full Stack Developer
 
-> Contact Information 
+__ Contact Information __
 ```
 * ⚡ Email  ajaythakur9131@gmail.com
 * ⚡ Linkedin  https://www.linkedin.com/in/ajay-thakur-177287170/
