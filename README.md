@@ -1,4 +1,4 @@
-### Ajay Kumar
+**Ajay Kumar**
 > Full Stack Developer
 
 **Contact Information**
