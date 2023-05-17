@@ -3,10 +3,10 @@
 
 > Contact Information 
 ```
-* 🔭 Email  [ajaythakur9131@gmail.com](mailto:ajaythakur9131@gmail.com)
-* 🔭 Linkedin  [https://www.linkedin.com/in/ajay-thakur-177287170/](https://www.linkedin.com/in/ajay-thakur-177287170/)
-* 🔭 Mobile [9805123109](9805123109)
-* 🔭 Github [https://www.github.com/ajaythxkur](https://www.github.com/ajaythxkur)
+* ⚡ Email  ajaythakur9131@gmail.com
+* ⚡ Linkedin  https://www.linkedin.com/in/ajay-thakur-177287170/
+* ⚡ Mobile +91 9805123109
+* ⚡ Github https://www.github.com/ajaythxkur
 ```
 
 - 🔭 I’m currently working on ...
