@@ -13,38 +13,22 @@
 ```
 * ⚡ 10th, 10+2, BCA
 ```
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-###     
-
-I created this template as managing a resume on Google Docs was hard and changing any formatting was too difficult since it had to be applied in multiple places.
-
-Most currently available templates either focus on two columns, or are multiple pages long that didn't work well for career fairs or online applications.
-
-### Quick start
-
-Get started quickly using [Overleaf](https://www.overleaf.com/latex/templates/software-engineer-resume/gqxmqsvsbdjf) template.
-
-### Build using Docker
-
-```sh
-docker build -t latex .
-docker run --rm -i -v "$PWD":/data latex pdflatex sourabh_bajaj_resume.tex
+**Skills**
+```
+* ⚡ Languages - HTML, CSS, PHP, JS
+* ⚡ Frameworks - NodeJs, ReactJs, VueJs, Laravel
+* ⚡ Libraries - Bootstrap, Redis, RabbitMQ, Web3js, Discordjs
+```
+**Work Experience**
+```
+* ⚡ October 2021 - July 2022 
+    Kynet Web Solutions
+    6 Months of Industrial Training + 4 months of work experience here in Php and js.
+* ⚡ August 2022 - Present 
+    Lbm Solutions
+    Vue js, React js, Node js and Laravel 
 ```
 
-### Preview
 
-![Resume Screenshot](/resume_preview.png)
 
-### License
 
-Format is MIT but all the data is owned by Sourabh Bajaj.
