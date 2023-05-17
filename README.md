@@ -4,12 +4,12 @@ Full Stack Developer
 ```
 > Contact Information 
 
-```
+
 [Linkedin](https://www.linkedin.com/in/ajay-thakur-177287170/)
 [Email](mailto:ajaythakur9131@gmail.com)
 [Mobile](tel:9805123109)
 [Github](https://www.github.com/ajaythxkur)
-```
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
