@@ -1,5 +1,6 @@
-<h1 align="center">### Hi I am Ajay 👋</h1>
-```sh<h2 align="center">Full Stack Developer</h2>```
+### Hi I am Ajay 👋
+
+```shFull Stack Developer```
 
 **ajaythxkur/ajaythxkur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
