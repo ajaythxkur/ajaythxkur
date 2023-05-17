@@ -1,10 +1,15 @@
-### Hi I am Ajay 👋
+### Ajay Kumar
+```
+Full Stack Developer
+```
+> Contact Information 
 
-```shFull Stack Developer```
-
-**ajaythxkur/ajaythxkur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+```
+[Linkedin](https://www.linkedin.com/in/ajay-thakur-177287170/)
+[Email](mailto:ajaythakur9131@gmail.com)
+[Mobile](tel:9805123109)
+[Github](https://www.github.com/ajaythxkur)
+```
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
