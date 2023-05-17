@@ -9,6 +9,11 @@
 * ⚡ Github https://www.github.com/ajaythxkur
 ```
 
+**Education**
+```
+* ⚡ 10th, 10+2, BCA
+```
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
