@@ -12,7 +12,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="30" width="42" alt="python logo"  />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="30" width="42" alt="github logo"  />
 </div>
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
