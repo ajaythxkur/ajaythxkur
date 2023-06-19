@@ -4,8 +4,6 @@
   
 </div>
 
-###
-
 <p align="center"><img src="https://media.tenor.com/V-Mag-MQ9J0AAAAd/chat.gif" height="200" width="200"/></p>
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="30" width="42" alt="javascript logo"  />
