@@ -8,10 +8,12 @@
 
 <p align="center"><img src="https://media.tenor.com/V-Mag-MQ9J0AAAAd/chat.gif" height="200" width="200"/></p>
 <div align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" height="30" width="42" alt="solidity"  /> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" height="30" width="42" alt="solidity"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="30" width="42" alt="github logo"  />
 </div>
-
 ###
 
 <div align="center">
