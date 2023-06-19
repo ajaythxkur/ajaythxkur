@@ -15,10 +15,9 @@
 ###
 
 <div align="center">
-  [https://discord.gg/JvJrAj8tBx](<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />)
-  [mailto:ajaythakur9131@gmail.com](<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />)
-  [t.me/not_str0ng](<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />)
- [www.twitter.com/not_str0ng](<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />)
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   
 </div>
 
