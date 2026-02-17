@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaythxkur"/>
+![Top Languages](https://gitmystat.vercel.app/top?username=ajaythxkur&layout=bar)
